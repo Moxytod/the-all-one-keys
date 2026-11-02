@@ -20,7 +20,7 @@ N.B: basically a pc not a computer
   - kali linux (vbox)
 - browser: vivaldi
 - music: Spotify with spicify
-- notes: notesnook
+- notes: notesnook and obsidian
 - office editors: onlyoffice
 - game engine: GameMaker Studio
 - IDE: VS code
